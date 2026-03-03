@@ -1,8 +1,8 @@
-# SmartFall - Detección de Caídas con Deep Learning
+# SmartFall - aplicacion web
 
 ## 📋 Descripción
 
-SmartFall es una aplicación web diseñada para detectar caídas en adultos mayores utilizando técnicas de Deep Learning. La aplicación diferencia entre Actividades de la Vida Diaria (ADL) y caídas reales mediante algoritmos de aprendizaje profundo que procesan datos de acelerómetros.
+SmartFall es una aplicación web que tiene un registro de usuario y autenticación y un área de trabajo básica que permite arrastrar componentes.
 
 Este proyecto incluye:
 - **Frontend**: Aplicación React con área de trabajo visual (drag-and-drop)
